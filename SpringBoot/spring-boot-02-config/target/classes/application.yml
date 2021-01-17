@@ -1,0 +1,14 @@
+#server:
+#  port: 8070
+person:
+  age: 49
+  boss: true
+  birth: 2020/7/14
+#  maps: {k1: v1,k2: 12}
+  lists:
+    - lisi
+    - zhaoliu
+#  dog:
+#     name: '小狗 \n 小猫'
+#     age: 2
+#  last-name: zhangsan

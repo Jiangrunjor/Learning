@@ -1,0 +1,22 @@
+2021-01-04 23:28:52.099  INFO 7452 --- [main] .a.s.SpringBoot03LoggingApplicationTests : Starting SpringBoot03LoggingApplicationTests using Java 1.8.0_261 on Jiangrun with PID 7452 (started by Jiangrun in E:\SpringBootLearning\spring-boot-03-logging)
+2021-01-04 23:28:52.101 DEBUG 7452 --- [main] .a.s.SpringBoot03LoggingApplicationTests : Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-04 23:28:52.105  INFO 7452 --- [main] .a.s.SpringBoot03LoggingApplicationTests : No active profile set, falling back to default profiles: default
+2021-01-04 23:28:53.727  INFO 7452 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-04 23:28:54.060  INFO 7452 --- [main] .a.s.SpringBoot03LoggingApplicationTests : Started SpringBoot03LoggingApplicationTests in 2.512 seconds (JVM running for 4.003)
+2021-01-04 23:28:54.265 TRACE 7452 --- [main] .a.s.SpringBoot03LoggingApplicationTests : 这是trace日志
+2021-01-04 23:28:54.266 DEBUG 7452 --- [main] .a.s.SpringBoot03LoggingApplicationTests : 这是debug日志
+2021-01-04 23:28:54.266  INFO 7452 --- [main] .a.s.SpringBoot03LoggingApplicationTests : 这是info日志
+2021-01-04 23:28:54.266  WARN 7452 --- [main] .a.s.SpringBoot03LoggingApplicationTests : 这是warn日志
+2021-01-04 23:28:54.266 ERROR 7452 --- [main] .a.s.SpringBoot03LoggingApplicationTests : 这是error日志
+2021-01-04 23:28:54.291  INFO 7452 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-01-04 23:34:21.975  INFO 1020 --- [main] .a.s.SpringBoot03LoggingApplicationTests : Starting SpringBoot03LoggingApplicationTests using Java 1.8.0_261 on Jiangrun with PID 1020 (started by Jiangrun in E:\SpringBootLearning\spring-boot-03-logging)
+2021-01-04 23:34:21.976 DEBUG 1020 --- [main] .a.s.SpringBoot03LoggingApplicationTests : Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-04 23:34:21.979  INFO 1020 --- [main] .a.s.SpringBoot03LoggingApplicationTests : No active profile set, falling back to default profiles: default
+2021-01-04 23:34:23.463  INFO 1020 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-04 23:34:23.785  INFO 1020 --- [main] .a.s.SpringBoot03LoggingApplicationTests : Started SpringBoot03LoggingApplicationTests in 2.36 seconds (JVM running for 3.84)
+2021-01-04 23:34:23.975 TRACE 1020 --- [main] .a.s.SpringBoot03LoggingApplicationTests : 这是trace日志
+2021-01-04 23:34:23.975 DEBUG 1020 --- [main] .a.s.SpringBoot03LoggingApplicationTests : 这是debug日志
+2021-01-04 23:34:23.976  INFO 1020 --- [main] .a.s.SpringBoot03LoggingApplicationTests : 这是info日志
+2021-01-04 23:34:23.976  WARN 1020 --- [main] .a.s.SpringBoot03LoggingApplicationTests : 这是warn日志
+2021-01-04 23:34:23.976 ERROR 1020 --- [main] .a.s.SpringBoot03LoggingApplicationTests : 这是error日志
+2021-01-04 23:34:23.993  INFO 1020 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
